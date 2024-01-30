@@ -244,6 +244,7 @@ img {
   position: relative;
   display: flex;
   overflow: hidden;
+  margin-top: -90px;
 }
 
 .services::before {
